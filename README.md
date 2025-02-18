@@ -7,7 +7,7 @@
   - Mutation Testing `--mutate` flag
   - Dependency Testing using `depends()`
 - Laravel Sprout
-  - Multi-Tenancy: https://github.com/sprout-laravel/steve-demo/commits/main/
+  - Multi-Tenancy: https://github.com/sprout-laravel/sprout
 - Laravel Pint
   - Strict settings to keep code style consistent
 - PHP Stan
